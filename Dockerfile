@@ -1,0 +1,2 @@
+ARG VERSION=1.97.1
+FROM n8nio/n8n:${VERSION}
